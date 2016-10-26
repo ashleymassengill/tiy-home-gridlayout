@@ -67,6 +67,10 @@ a, h1, p, h5, h4, h2{
   margin-bottom: 50px;
 }
 
+.button{
+  text-align: center;
+}
+
 .buttongray{
   background-color: #333;
   border-color: #333;
