@@ -53,11 +53,24 @@ a, h1, p, h5, h4, h2{
 
 .hero p{
   color: rgba(255, 255, 255, 0.5);
-  font-size: 20px;
+  font-size: 23px;
+  font-weight: 200;
+  padding-bottom: 5px;
 }
 
-.button1{
-  
+.btn{
+  text-transform: capitalize;
+  font-weight: 200;
+}
+
+.hero .btn{
+  margin-bottom: 50px;
+}
+
+.buttongray{
+  background-color: #333;
+  border-color: #333;
+  color: white;
 }
 
 .icon{
